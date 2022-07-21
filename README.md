@@ -5,9 +5,11 @@
 
 - 👀 I’m interested in **programming, horses, sports, instruments, astrology,...**
 
-- 🌱 I’m currently learning **Go**
+- 🚀 I work at Trinsic Technologies Inc.
 
-- 💬 Ask me about **Java and Go**
+- 🌱 I’m currently learning **Go** and **React** 
+
+- 💬 Ask me about **Java** and **Go**
 
 - 📫 Reach me on **[Instagram](https://www.instagram.com/chiarapaskulin/) or by e-mail: chiarapaskulin@gmail.com**
 
