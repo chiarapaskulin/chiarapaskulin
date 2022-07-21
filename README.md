@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in **programming, horses, CrossFit, sports, instruments, astrology,...**
 
-- 🚀 I work at Trinsic Technologies Inc.
+- 🚀 I work at **Trinsic**
 
 - 🌱 I’m currently learning **Go** and **React** 
 
