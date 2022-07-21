@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm @chiarapaskulin</h1>
-<h3 align="center">A passionate developer and horse rider from Brazil</h3>
+<h3 align="center">A passionate developer, horse rider and CrossFit athlete from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiarapaskulin&label=Profile%20views&color=0e75b6&style=flat" alt="chiarapaskulin" /> </p>
 
-- 👀 I’m interested in **programming, horses, sports, instruments, astrology,...**
+- 👀 I’m interested in **programming, horses, CrossFit, sports, instruments, astrology,...**
 
 - 🚀 I work at Trinsic Technologies Inc.
 
