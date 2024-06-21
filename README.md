@@ -5,9 +5,9 @@
 
 - 👀 I’m interested in **programming, horses, CrossFit, sports, instruments, astrology,...**
 
-- 🚀 I work at **Trinsic**
+- 🚀 I'm searching for a job!
 
-- 🌱 I’m currently learning **Go** and **React** 
+- 🌱 I’m currently learning **React** 
 
 - 💬 Ask me about **Java** and **Go**
 
