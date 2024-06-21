@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiarapaskulin&label=Profile%20views&color=0e75b6&style=flat" alt="chiarapaskulin" /> </p>
 
-- 👀 I’m interested in **programming, horses, CrossFit, sports, instruments, astrology,...**
+- 👀 I’m interested in **programming, horses, CrossFit, sports, instruments, games,...**
 
 - 🚀 I'm searching for a job!
 
