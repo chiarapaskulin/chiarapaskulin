@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React** 
 
-- 💬 Ask me about **Java** and **Go**
+- 💬 Ask me about **Java**, **Go**, **C#**, **TypeScript**, **React**
 
 - 📫 Reach me on **[Instagram](https://www.instagram.com/chiarapaskulin/) or by e-mail: chiarapaskulin@gmail.com**
 
