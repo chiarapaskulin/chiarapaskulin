@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in **programming, horses, CrossFit, sports, instruments, games,...**
 
-- 🚀 I'm a Full Stack Developer at Coinbase
+- 🚀 I'm a **Full Stack Developer** at **Coinbase**
 
 - 🌱 I’m currently working with **Go** and **React** 
 
