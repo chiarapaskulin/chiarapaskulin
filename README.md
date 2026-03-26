@@ -5,9 +5,9 @@
 
 - 👀 I’m interested in **programming, horses, CrossFit, sports, instruments, games,...**
 
-- 🚀 I'm searching for a job!
+- 🚀 I'm a Full Stack Developer at Coinbase
 
-- 🌱 I’m currently learning **React** 
+- 🌱 I’m currently working with **Go** and **React** 
 
 - 💬 Ask me about **Java**, **Go**, **C#**, **TypeScript**, **React**
 
